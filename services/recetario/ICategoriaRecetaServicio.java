@@ -1,3 +1,6 @@
+import java.util.list;
+import modelo,CategoríaReceta;
+
 public interface ICategoríaRecetaServicio {
 
     CategoríaReceta crear(CategoríaReceta categoríaReceta);
